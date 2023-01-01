@@ -1,0 +1,15 @@
+# Mutlu Minds
+Welcome to the MutluMinds GitHub organization! 
+Here you will find a collection of open source projects that are developed and maintained by the MutluMinds team.
+
+## Projects
+**fullstack-image-app**: An app that gets image data by using MERN stack from choosen APIs.
+
+## Contributing
+We welcome contributions to our projects! If you are interested in contributing, please read our contributing guidelines for more information on how to get started.
+
+## Code of Conduct
+We are committed to providing a friendly and welcoming environment for all of our projects. Please read and follow our code of conduct.
+
+## Contact
+If you have any questions or would like to get in touch with us, please feel free to send us an email at mutluminds@gmail.com.

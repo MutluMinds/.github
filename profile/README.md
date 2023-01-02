@@ -12,4 +12,6 @@ We welcome contributions to our projects! If you are interested in contributing,
 We are committed to providing a friendly and welcoming environment for all of our projects. Please read and follow our [code of conduct](https://github.com/MutluMinds/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Contact
+Join [our ![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white) here.](https://discord.gg/G976TR8bBV).
+
 If you have any questions or would like to get in touch with us, please feel free to send us an email at mutluminds@gmail.com.

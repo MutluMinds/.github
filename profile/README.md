@@ -1,6 +1,6 @@
 # mutlu minds
 Welcome to the mutlu minds GitHub organization! 
-Here you will find a collection of open source projects that are developed and maintained by the MutluMinds team.
+Here you will find a collection of open source projects that are developed and maintained by the mutlu minds team.
 
 ## Projects
 - [fullstack-image-app](https://fullstack-image-app.netlify.app/): An app that gets image data by using MERN stack from choosen APIs.

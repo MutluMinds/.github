@@ -1,5 +1,5 @@
-# Mutlu Minds
-Welcome to the MutluMinds GitHub organization! 
+# mutlu minds
+Welcome to the mutlu minds GitHub organization! 
 Here you will find a collection of open source projects that are developed and maintained by the MutluMinds team.
 
 ## Projects
